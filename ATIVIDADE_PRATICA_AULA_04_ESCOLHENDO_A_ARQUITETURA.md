@@ -4,14 +4,14 @@
 
 **Data da atividade:** 04/09/2026
 **Data de conclusão:** 11/09/2026
-**Aluna:** Thayná Batista da Silva
+**Alunas:** Thayná Batista da Silva e Poliana Fontes
 
 | Informação         | Dados                                        |
 | ------------------ | -------------------------------------------- |
 | Curso              | Análise e Desenvolvimento de Sistemas        |
 | Unidade Curricular | TADS25.109/3N, Análise e Projeto de Sistemas |
 | Instituição        | Faculdade Senac Pernambuco                   |
-| Aluna              | Thayná Batista da Silva                      |
+| Alunas             | Thayná Batista da Silva e Poliana Fontes     |
 | Local              | Recife, Pernambuco, Brasil                   |
 
 ---
@@ -569,9 +569,9 @@ Dessa forma, a arquitetura proposta busca atender não apenas ao funcionamento i
 
 ---
 
-## 21. Identificação da Aluna
+## 21. Identificação das Alunas
 
-**Aluna:** Thayná Batista da Silva
+**Alunas:** Thayná Batista da Silva e Poliana Fontes
 **Curso:** Análise e Desenvolvimento de Sistemas
 **Instituição:** Faculdade Senac Pernambuco
 **Unidade Curricular:** Análise e Projeto de Sistemas
