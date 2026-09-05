@@ -1,5 +1,5 @@
 # ANÁLISE E PROJETO DE SISTEMAS 2026.2-TADS25.109-3N
-......
+A Unidade Curricular [TADS25.109/3N] ANÁLISE E PROJETO DE SISTEMAS - 2026.2 da Faculdade Senac Recife-PE, Tecnólogo em Análise e Desenvolvimento de Sistemas, 2026.2, Professor Guibson Barros de Almeida Santana
 ## 👩‍💻 Autora
 
 <div align="center">
