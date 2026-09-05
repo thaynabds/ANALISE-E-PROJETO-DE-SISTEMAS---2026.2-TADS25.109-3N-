@@ -30,8 +30,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** — Faculdade Senac Reci
 
 <div align="center">
 
-Feito com 💜 por **Thayná Batista da Silva** para o **A Unidade Currícular Engenharia de Software da Faculdade Senac Recife-PE, Tecnólogo em Análise e Desenvolvimento de Sistemas, 2026.2, Professora Sonia Gomes de Oliveira**
+Feito com 💜 por **Thayná Batista da Silva** para o **A Unidade Curricular [TADS25.109/3N] ANÁLISE E PROJETO DE SISTEMAS - 2026.2 da Faculdade Senac Recife-PE, Tecnólogo em Análise e Desenvolvimento de Sistemas, 2026.2, Professor Guibson Barros de Almeida Santana**
 
-**Copyright © 2026 — Todos os direitos reservados.**
+**Copyright © 2026 — ThaynaBDSTec - Todos os direitos reservados.**
 
 </div>
