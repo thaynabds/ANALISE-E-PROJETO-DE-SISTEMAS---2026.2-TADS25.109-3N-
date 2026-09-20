@@ -506,28 +506,40 @@ A rubrica da atividade atribui 2,5 pontos para coerência arquitetural, 2,5 pont
 
 A principal decisão arquitetural está alinhada com o cenário do exercício: equipe pequena, prazo curto e prioridade para simplicidade e velocidade de entrega. O material da aula também destaca que a escolha da estratégia deve considerar a complexidade do sistema, a experiência da equipe e o tempo e os recursos disponíveis. fileciteturn0file0L216-L221
 
-# Autora
+## 👩‍💻 Autora
 
 <div align="center">
 
-## Thayná Batista da Silva
+### Thayná Batista da Silva
 
-[LinkedIn](https://br.linkedin.com/in/thaynabds)
+<a href="https://br.linkedin.com/in/thaynabds" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/thaynabdstec/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:thaynabdstec@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[Instagram](https://www.instagram.com/thaynabdstec/)
+📧 thaynabdstec@gmail.com · 📱 +55 (81) 97912-6121
 
-[Email](mailto:thaynabdstec@gmail.com)
+Estudante de **Análise e Desenvolvimento de Sistemas** — Faculdade Senac Recife · Previsão de formatura: 2027
 
-Estudante de Análise e Desenvolvimento de Sistemas  
-Faculdade Senac Recife, PE  
-Previsão de formatura: 2027
+<br/>
+
+<img src="https://raw.githubusercontent.com/thaynabds/AppMedSmart/refs/heads/main/Cart%C3%A3o%20TEC%20Thayn%C3%A1%20Batista%20da%20Silva.png" alt="Cartão TEC Thayná Batista da Silva" />
 
 </div>
+
+---
 
 <div align="center">
 
-Desenvolvido por **Thayná Batista da Silva** para a Unidade Curricular **ANÁLISE E PROJETO DE SISTEMAS, TADS25.109/3N, 2026.2**, da Faculdade Senac Recife, sob orientação do Professor **Guibson Barros de Almeida Santana**.
+Feito com 💜 por **Thayná Batista da Silva** para o **A Unidade Curricular [TADS25.109/3N] ANÁLISE E PROJETO DE SISTEMAS - 2026.2 da Faculdade Senac Recife-PE, Tecnólogo em Análise e Desenvolvimento de Sistemas, 2026.2, Professor Guibson Barros de Almeida Santana**
 
-Copyright © 2026, ThaynaBDSTec.
+**Copyright © 2026 — ThaynaBDSTec - Todos os direitos reservados.**
 
 </div>
+
+---
